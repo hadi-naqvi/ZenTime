@@ -1,6 +1,4 @@
 # ZenTime
-![ZenTime Logo|200](https://i.imgur.com/LlYikSo.png)
-
 A simple time and productivity management program intended to be used for personal work, school-work, and other personal tasks to assist end-users in managing time and boosting productivity. ZenTime was created in Java using Swing, AWT, and JFreeChart.
 
 ZenTime was created with OOP Principles such as abstraction, polymorphism, and inheritance, as well as using the MVC (Model-View-Controller) design pattern. The project was completed within a duration of 11 days at the beginning of 2022 using various project management skills and tools. For more information about ZenTime, click [here](https://docs.google.com/document/d/16JwcdX8EUWhfElKB6e4DWAJ6uikfdklW/edit?usp=sharing&ouid=113279981882742199483&rtpof=true&sd=true) to see its design document.
