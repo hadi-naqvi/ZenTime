@@ -1,3 +1,4 @@
+# ZenTime
 ![ZenTime Logo|200](https://i.imgur.com/LlYikSo.png)
 A simple time and productivity management program intended to be used for personal work, school-work, and other personal tasks to assist end-users in managing time and boosting productivity. ZenTime was created in Java using Swing, AWT, and JFreeChart.
 
